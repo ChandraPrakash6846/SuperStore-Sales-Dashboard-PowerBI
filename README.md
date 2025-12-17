@@ -8,101 +8,101 @@ The dashboard is built using Power BI and presents key metrics and insights in a
 
 ## Business Objectives
 
-Track overall sales and profitability performance
+* Track overall sales and profitability performance
 
-Analyze customer value and segment contribution
+* Analyze customer value and segment contribution
 
-Understand regional and market-wise sales distribution
+* Understand regional and market-wise sales distribution
 
-Identify top customers and high-profit products
+* Identify top customers and high-profit products
 
-Monitor operational efficiency through shipping cost and delivery time metrics
+* Monitor operational efficiency through shipping cost and delivery time metrics
 
-Analyze business growth trends over time
+* Analyze business growth trends over time
 
 ## Dataset Information
 
-Dataset Name: SuperStoreOrders.csv
+* Dataset Name: SuperStoreOrders.csv
 
-Data Type: Sales & Financial Dataset
+* Data Type: Sales & Financial Dataset
 
-Time Period: 2011 – 2014
+* Time Period: 2011 – 2014
 
-Granularity: Order-level transactional data
+* Granularity: Order-level transactional data
 
-Key data includes:
+* Key data includes:
 
-Orders, customers, products, and segments
+* Orders, customers, products, and segments
 
-Sales, profit, quantity, discount, and shipping cost
+* Sales, profit, quantity, discount, and shipping cost
 
-Geographic dimensions (market, region, country, state)
+* Geographic dimensions (market, region, country, state)
 
-Time-based fields for trend analysis
+* Time-based fields for trend analysis
 
 ## Dashboard Highlights
 
-The Power BI dashboard includes:
+* The Power BI dashboard includes:
 
-KPI cards for Total Sales, Total Quantity, Average Shipping Cost, and Average Delivery Days
+* KPI cards for Total Sales, Total Quantity, Average Shipping Cost, and Average Delivery Days
 
-Profit per Customer gauge visualization
+* Profit per Customer gauge visualization
 
-Sales distribution by Segment and Market
+* Sales distribution by Segment and Market
 
-Sales performance by Region
+* Sales performance by Region
 
-Top 10 Customers by Sales
+* Top 10 Customers by Sales
 
-Top 5 Products by Profit
+* Top 5 Products by Profit
 
-Year-over-Year Sales Trend (2011–2014)
+* Year-over-Year Sales Trend (2011–2014)
 
-Interactive cross-filtering for deeper analysis
+* Interactive cross-filtering for deeper analysis
 
 ## Key Measures (DAX)
 
-Custom DAX measures were created and organized in a dedicated _Measures table, including:
+* Custom DAX measures were created and organized in a dedicated _Measures table, including:
 
-Total Sales
+* Total Sales
 
-Total Profit
+* Total Profit
 
-Profit Margin %
+* Profit Margin %
 
-Profit per Customer
+* Profit per Customer
 
-Sales YTD
+* Sales YTD
 
-Sales YoY Growth %
+* Sales YoY Growth %
 
-Average Shipping Cost
+* Average Shipping Cost
 
-Average Delivery Days
+* Average Delivery Days
 
-These measures enable accurate performance tracking and advanced time-based analysis.
+* These measures enable accurate performance tracking and advanced time-based analysis.
 
 ## Tools & Technologies Used
 
-Power BI Desktop – Dashboard creation and visualization
+* Power BI Desktop – Dashboard creation and visualization
 
-DAX (Data Analysis Expressions) – KPI and time-intelligence measures
+* DAX (Data Analysis Expressions) – KPI and time-intelligence measures
 
-Power Query – Data cleaning and preparation
+* Power Query – Data cleaning and preparation
 
-CSV Dataset – Source data
+* CSV Dataset – Source data
 
 ## Key Business Insights
 
-The Consumer segment is the largest revenue contributor
+* The Consumer segment is the largest revenue contributor
 
-APAC and US markets drive the majority of sales
+* APAC and US markets drive the majority of sales
 
-The business shows consistent year-over-year growth
+* The business shows consistent year-over-year growth
 
-Technology products generate the highest profit
+* Technology products generate the highest profit
 
-Shipping cost is a significant expense and presents an opportunity for optimization
+* Shipping cost is a significant expense and presents an opportunity for optimization
 
 ## Repository Structure
 SuperStore-Sales-Dashboard/
@@ -113,14 +113,14 @@ SuperStore-Sales-Dashboard/
 
 ## Outcome
 
-This project demonstrates practical skills in:
+* This project demonstrates practical skills in:
 
-Business-focused dashboard design
+* Business-focused dashboard design
 
-KPI selection and performance analysis
+* KPI selection and performance analysis
 
-Data visualization best practices
+* Data visualization best practices
 
-Translating data into actionable business insights
+* Translating data into actionable business insights
 
 The dashboard is suitable for business stakeholders, internship evaluation, and portfolio presentation.
